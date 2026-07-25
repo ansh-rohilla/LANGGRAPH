@@ -14,11 +14,13 @@ A practical collection of Jupyter notebooks for learning how to build stateful A
 | `essay_workflow.ipynb` | A parallel, Gemini-powered essay evaluator that combines language, analysis, and clarity feedback. |
 | `simple_conditional_workflow.ipynb` | A conditional graph that routes a quadratic equation to the appropriate root calculation. |
 | `complex_conditional_workflow.ipynb` | A Gemini-powered review-triage graph that branches into positive replies or issue diagnosis and support. |
+| `iterative_workflow.ipynb` | A Groq-powered loop that generates, evaluates, and improves a tweet until it is approved or reaches its retry limit. |
 
 ## Prerequisites
 
 - Python 3.10 or later
 - A Google AI Studio API key for the Gemini-powered notebooks
+- A Groq API key for `iterative_workflow.ipynb`
 
 ## Setup
 
@@ -35,6 +37,7 @@ Open `.env` and replace the placeholder with your Google API key:
 
 ```env
 GOOGLE_API_KEY=your_google_ai_studio_api_key
+GROQ_API_KEY=your_groq_api_key
 ```
 
 Then start Jupyter:

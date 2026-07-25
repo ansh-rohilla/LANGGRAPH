@@ -1,4 +1,5 @@
 langgraph
 langchain-google-genai
+langchain-groq
 python-dotenv
 ipykernel
