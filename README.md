@@ -10,6 +10,8 @@ A practical collection of Jupyter notebooks for learning how to build stateful A
 | `1_bmi_workflow.ipynb` | A deterministic graph that calculates and classifies BMI. |
 | `2_llm_workflow_simple.ipynb` | A one-step question-answering workflow using Gemini. |
 | `prompt_chaining.ipynb` | A multi-step graph that generates a blog outline, then turns it into a full article. |
+| `paralle_workflow.ipynb` | A parallel graph that calculates batting metrics before producing a combined summary. |
+| `essay_workflow.ipynb` | A parallel, Gemini-powered essay evaluator that combines language, analysis, and clarity feedback. |
 
 ## Prerequisites
 
