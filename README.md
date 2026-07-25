@@ -12,6 +12,8 @@ A practical collection of Jupyter notebooks for learning how to build stateful A
 | `prompt_chaining.ipynb` | A multi-step graph that generates a blog outline, then turns it into a full article. |
 | `paralle_workflow.ipynb` | A parallel graph that calculates batting metrics before producing a combined summary. |
 | `essay_workflow.ipynb` | A parallel, Gemini-powered essay evaluator that combines language, analysis, and clarity feedback. |
+| `simple_conditional_workflow.ipynb` | A conditional graph that routes a quadratic equation to the appropriate root calculation. |
+| `complex_conditional_workflow.ipynb` | A Gemini-powered review-triage graph that branches into positive replies or issue diagnosis and support. |
 
 ## Prerequisites
 
